@@ -1,0 +1,15 @@
+.footer {
+    min-height: 10vh;
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer-text {
+    color: darkred;
+    font-family: sans-serif;
+    font-weight: 400;
+    text-transform: uppercase;
+    text-decoration: none;
+}

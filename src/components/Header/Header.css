@@ -1,0 +1,31 @@
+.header {
+    min-height: 10vh;
+    
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header-title {
+    color: darkred;
+    font-family: sans-serif;
+    text-transform: uppercase;
+}
+
+.header-nav {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.header-link {
+    padding: 10px;
+    margin: 0 10px;
+
+    display: block;
+
+    color: darkred;
+    font-family: sans-serif;
+    text-transform: uppercase;
+    text-decoration: none;
+}
